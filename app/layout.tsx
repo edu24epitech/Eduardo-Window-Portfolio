@@ -2,8 +2,8 @@ import type { Metadata } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'eduardo App',
-  description: 'Created with v0',
+  title: 'Eduardo Window',
+  description: 'Welcome to my portfolio',
   generator: 'eduardo.dev',
 }
 
